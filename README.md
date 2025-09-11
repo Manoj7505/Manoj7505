@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Manoj+K!;Java+%26+Full-Stack+Developer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Manoj+K!;Java+Full-Stack+Developer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 
 ### 🪄 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,React,Tailwind css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend  
@@ -18,23 +18,13 @@
 
 ### 🗄️ Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=MySQL" />
+ <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚡Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## 🌟 Featured Projects
-- **Smart Canteen Management System** – QR-based authentication for employees, Food ordering and automated billing system.  
-- **Tournament Fixtures Platform** – Manage fixtures, brackets, and live scores in real-time, Integrated Google Maps API for stadium locations.
-- **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, Appointment confirmation via Email & SMS using Twilio API.  
-- **Quiz Application** – Interactive quiz platform with a countdown timer, Score tracking and leaderboard for competition.  
-
-👉 Explore my repos for source code!
 
 ---
 
